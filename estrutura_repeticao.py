@@ -15,4 +15,4 @@ while index < len(pares):   # enquanto o índice for menor que o tamanho da list
     soma += pares[index]    # adiciona o valor da posição atual à soma
     index += 1              # passa para o próximo índice
 
-print("Soma dos números pares:", soma)
+print("Soma dos números pares é:", soma)
