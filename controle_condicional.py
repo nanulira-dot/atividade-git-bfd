@@ -1,5 +1,5 @@
 # Variável de nota de um aluno
-nota = 82
+nota = 83
 
 # Mapeando a nota para conceito
 if nota >= 90:
