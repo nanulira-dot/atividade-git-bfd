@@ -1,5 +1,5 @@
 # Trabalhando com listas
-frutas = ["maçã", "banana", "laranja"]  # criando uma lista de frutas
+frutas = ["mamão", "banana", "laranja"]  # criando uma lista de frutas
 
 # Adicionando um elemento ao final da lista
 frutas.append("uva")  
